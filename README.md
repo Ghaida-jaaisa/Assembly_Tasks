@@ -19,4 +19,5 @@ ask the user to enter a character and a number , print the character a number of
 ## lab5_task.asm
 ask the user to enter a small letter , then print the letters starting from a key up to z , with input validation 
 
-
+## FindLenght.asm
+ask the user to enter group of characters , display the number of characters in the entered string , display the number if between ( 0 - 9) , otherwise display " more than 9 characters " 
