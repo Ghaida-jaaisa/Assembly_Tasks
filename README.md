@@ -24,3 +24,7 @@ ask the user to enter group of characters , display the number of characters in 
 
 ## countNoOfA.ASM
 Ask the user to enter a group of characters then count how many times the letter "a" repeated
+
+## reverse.asm
+Ask the user to enter a group of characters , then display in reverse order .
+
