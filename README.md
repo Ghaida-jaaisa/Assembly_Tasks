@@ -30,7 +30,7 @@ Ask the user to enter a group of characters , then display in reverse order .
 
 ## MID_TASK1.asm
 Display the following message on the screen :
-Please Enter a String 
+#### Please Enter a String 
 
 ## MID_TASK2.asm 
 allow the user to enter a string characters.
