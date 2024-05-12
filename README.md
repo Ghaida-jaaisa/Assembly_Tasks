@@ -35,7 +35,7 @@ Please Enter a String
 ## MID_TASK2.asm 
 allow the user to enter a string characters.
 Please Enter a String
-Example of string
+#### input : Example of string
 
 ## MID_TASK3.asm
 validata that only small letter characters (a-z) are accepted
@@ -43,13 +43,13 @@ validata that only small letter characters (a-z) are accepted
 ## MID_TASK4.asm
 Convert all the string to capital letters 
 Please enter a string 
-input :example of string 
-output : EXAMPLE OF STRING
+#### input :example of string 
+#### output : EXAMPLE OF STRING
 
 ## MID_TASK5.asm
 Convert only the start of every word to capital 
-input : example of string 
-output : Example Of String
+#### input : example of string 
+#### output : Example Of String
 
 
 
