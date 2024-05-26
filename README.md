@@ -62,6 +62,9 @@ Write a program to verify that the password is correct or in correct
 ## Match.asm 
 Define two strings in your program , and indicate whether they match or not . 
 
+## Multi.asm
+allow the user to enter multi-digit number the check it binary value using TD 
+#### Example : 100 => 64H   , 50 => 32H  , 143 => 8FH 
 
 
 
