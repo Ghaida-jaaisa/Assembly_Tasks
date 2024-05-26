@@ -51,6 +51,19 @@ Convert only the start of every word to capital
 #### input : example of string 
 #### output : Example Of String
 
+## Input.asm
+Define one string in your program , and compare it with another string entered by the user
+
+## Password.asm
+Write a program to verify that the password is correct or in correct 
+#### Saved Password ABCDE12345
+####  Input : **********
+
+## Match.asm 
+Define two strings in your program , and indicate whether they match or not . 
+
+
+
 
 
 
