@@ -66,7 +66,8 @@ Define two strings in your program , and indicate whether they match or not .
 allow the user to enter multi-digit number the check it binary value using TD 
 #### Example : 100 => 64H   , 50 => 32H  , 143 => 8FH 
 
-
+## divisibleBy13.asm 
+allow the user to enter any number (as well multi-digit) , and check if it divisible by 13 without a remainder . 
 
 
 
