@@ -72,7 +72,7 @@ allow the user to enter any number (as well multi-digit) , and check if it divis
 ## Lenght.asm
 Ask the user to enter a string then display it's lenght ( Lenght < 255 ) 
 
-##Summation.asm
+## Summation.asm
 Ask the user to enter two numbers then display their sum 
 #### Example : 140 + 20 = 160 
 
