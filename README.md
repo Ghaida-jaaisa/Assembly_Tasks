@@ -69,5 +69,10 @@ allow the user to enter multi-digit number the check it binary value using TD
 ## divisibleBy13.asm 
 allow the user to enter any number (as well multi-digit) , and check if it divisible by 13 without a remainder . 
 
+## Lenght.asm
+Ask the user to enter a string then display it's lenght ( Lenght < 255 ) 
 
+##Summation.asm
+Ask the user to enter two numbers then display their sum 
+#### Example : 140 + 20 = 160 
 
