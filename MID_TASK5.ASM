@@ -1,7 +1,9 @@
 dosseg
 .model small
 .data
-msg db "Please Enter a Group of small characters ",10,13,"$"
+
+msg db "Enter a group of characters " ,10,13, "$"
+nwl db 10,13 , "$"
 strr db 100 dup(?)
 nv db 10,13,"You Enter invalid Character ",10,13,"$"
 
@@ -9,11 +11,6 @@ nv db 10,13,"You Enter invalid Character ",10,13,"$"
 main:
 mov ax , @data
 mov ds,ax
-
-;hello 
-mov dx , offset msg
-mov ah,9
-int 21h
 
 mov si , offset strr
 mov bx, 0
@@ -25,9 +22,9 @@ jz start
 cmp al,20h
 jz special
  cmp al,"a"
-jb nvalid
+jb start
 cmp al, "z"
-ja nvalid
+ja start
 special : 
 mov [si],al
 inc si
@@ -65,10 +62,7 @@ inc si
 dec bl
 jmp capital
 
-  nvalid :
-  mov dx , offset nv
-  mov ah,9
-  int 21h
+
 
 ex: 
 mov ah,4ch
