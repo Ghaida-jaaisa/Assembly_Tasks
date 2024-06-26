@@ -85,3 +85,6 @@ Ask the user to enter two numbers then display their sum
 ### Write an assembly program to draw equation y = x , then user enter displacment where y = x - c , c enter by user  
 ![Screenshot (132)](https://github.com/Ghaida-jaaisa/Assembly_Tasks/assets/115732088/d802c7c4-4cbc-4539-8507-bec315159944)
 
+## Graphic3.asm
+### Write an assembly program to draw this figure 
+![Screenshot (133)](https://github.com/Ghaida-jaaisa/Assembly_Tasks/assets/115732088/d098264f-82f5-4a81-a0d0-0fa61f6a020b)
