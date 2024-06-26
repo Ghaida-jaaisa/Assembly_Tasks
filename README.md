@@ -77,12 +77,11 @@ Ask the user to enter two numbers then display their sum
 #### Example : 140 + 20 = 160 
 
 ## Graphic1.asm
-Write an assembly program tp draw this figure 
+### Write an assembly program tp draw this figure 
 ![Screenshot (131)](https://github.com/Ghaida-jaaisa/Assembly_Tasks/assets/115732088/2ca4f3c5-3cca-4ec0-ae63-8e273bcd6247)
 
 
 ## Graphic2.asm
-Write an assembly program to draw equation y = x 
-then user enter displacment where y = x - c , c enter by user  
+### Write an assembly program to draw equation y = x , then user enter displacment where y = x - c , c enter by user  
 ![Screenshot (132)](https://github.com/Ghaida-jaaisa/Assembly_Tasks/assets/115732088/d802c7c4-4cbc-4539-8507-bec315159944)
 
