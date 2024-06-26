@@ -77,7 +77,7 @@ Ask the user to enter two numbers then display their sum
 #### Example : 140 + 20 = 160 
 
 ## Graphic1.asm
-### Write an assembly program tp draw this figure 
+### Write an assembly program to draw this figure 
 ![Screenshot (131)](https://github.com/Ghaida-jaaisa/Assembly_Tasks/assets/115732088/2ca4f3c5-3cca-4ec0-ae63-8e273bcd6247)
 
 
