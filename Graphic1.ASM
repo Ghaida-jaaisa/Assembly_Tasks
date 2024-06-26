@@ -102,13 +102,6 @@ pop ax
 mov ah , 00h
 int 10h
 
-
-
-
-
-
-
-
 mov ah ,4ch
 int 21h
 end
